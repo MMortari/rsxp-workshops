@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add koa koa-router node-cache mongoose dotenv koa2-ratelimit
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Maringa\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Users\Maringa\Documents\dev-lemon\apache-maven-3.6.2\bin;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Users\Maringa\AppData\Local\Microsoft\WindowsApps;C:\Users\Maringa\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Maringa\AppData\Local\atom\bin;C:\Users\Maringa\AppData\Roaming\npm;C:\Users\Maringa\AppData\Local\Yarn\bin;C:\Users\Maringa\AppData\Local\hyper\app-3.0.2\resources\bin
+
+Yarn version: 
+  1.19.1
+
+Node version: 
+  12.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+
+npm manifest: 
+  {
+    "name": "workshop-03-performance",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
